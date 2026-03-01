@@ -4,21 +4,6 @@ A full end-to-end machine learning project that builds a **personalized movie re
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Pipeline](#pipeline)
-- [Model Architecture](#model-architecture)
-- [Results](#results)
-- [Installation](#installation)
-- [Running the App](#running-the-app)
-- [API Reference](#api-reference)
-- [Tech Stack](#tech-stack)
-
----
-
 ## Overview
 
 This project implements a production-style recommendation system inspired by how large platforms like YouTube and Netflix serve personalized content. The system works in two stages:
